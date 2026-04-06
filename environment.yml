@@ -11,5 +11,4 @@ dependencies:
   - notebook
   - ipykernel
   - ipywidgets
-  - open3d
   - pip
