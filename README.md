@@ -65,7 +65,10 @@ python -m ipykernel install --user --name funrobo_vision --display-name "Funrobo
 
 ### How to Run
 
-- If setup worked well, you should be able to open the [**class_activity_1.ipynb**](https://github.com/OlinCollege-FunRobo/funrobo_robot_perception/blob/main/class_activity_1.ipynb) and [**class_activity_2.ipynb**](https://github.com/OlinCollege-FunRobo/funrobo_robot_perception/blob/main/class_activity_2.ipynb) in VS Code and start working!
+- If setup worked well, you should be able to open the following Jupyter notebooks in VS Code:
+    - [**class_activity_1.ipynb**](https://github.com/OlinCollege-FunRobo/funrobo_robot_perception/blob/main/class_activity_1.ipynb)
+    - [**class_activity_2.ipynb**](https://github.com/OlinCollege-FunRobo/funrobo_robot_perception/blob/main/class_activity_2.ipynb)
+    - [**class_activity_3.ipynb**](https://github.com/OlinCollege-FunRobo/funrobo_robot_perception/blob/main/class_activity_3.ipynb)
 
 
-N.B. Please make sure you select the python interpreter associated with the virtual environment you just created when running the Jupyter notebook.
+**NOTE:** Please make sure you select the python interpreter associated with the virtual environment you just created when running the Jupyter notebook.
