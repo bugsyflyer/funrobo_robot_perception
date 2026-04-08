@@ -19,7 +19,7 @@ while True:
         if cv2.waitKey(1) == ord('q'): # saves the current frame each time "q" is pressed
             print("Saving to frame.png")
             frame_str = './img/img'+str(i)+'.png'
-            # frame_str = './img/calibration_imgs/calibration_img'+str(i)+'.png'
+            #frame_str = './img/calibration_imgs/calibration_img'+str(i)+'.png'
             cv2.imwrite(frame_str, frame)
             i+= 1
 
